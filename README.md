@@ -1,6 +1,8 @@
 
  # Vellato App 
 
+ https://github.com/Ibrahimkhan432/Vellato-App/blob/391f18dcee98ff5b159c4c6453027d532cf29f12/vellatoApp.png
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
